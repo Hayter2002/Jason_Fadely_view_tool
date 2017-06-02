@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install Jason_Fadely_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+JasonFadelyViewTool::Renderer.copyright 'Jason Fadely', 'All rights reserved
+```
 
 ## Development
 
